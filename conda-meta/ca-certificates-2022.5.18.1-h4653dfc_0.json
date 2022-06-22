@@ -1,0 +1,46 @@
+{
+    "arch": "arm64",
+    "build": "h4653dfc_0",
+    "build_number": 0,
+    "channel": "conda-forge/osx-arm64",
+    "depends": [],
+    "extracted_package_dir": "/Users/sugaikazuaki/miniforge3/pkgs/ca-certificates-2022.5.18.1-h4653dfc_0",
+    "files": [
+        "ssl/cacert.pem",
+        "ssl/cert.pem"
+    ],
+    "fn": "ca-certificates-2022.5.18.1-h4653dfc_0.tar.bz2",
+    "license": "ISC",
+    "link": {
+        "source": "/Users/sugaikazuaki/miniforge3/pkgs/ca-certificates-2022.5.18.1-h4653dfc_0",
+        "type": 1
+    },
+    "md5": "00ee870560b45bb8a27809834603eb7c",
+    "name": "ca-certificates",
+    "package_tarball_full_path": "/Users/sugaikazuaki/miniforge3/pkgs/ca-certificates-2022.5.18.1-h4653dfc_0.tar.bz2",
+    "paths_data": {
+        "paths": [
+            {
+                "_path": "ssl/cacert.pem",
+                "path_type": "hardlink",
+                "sha256": "1f6578be2b486d69e311a9064e69bd703ae6223b27dc8f172592afc9b395cdb8",
+                "sha256_in_prefix": "1f6578be2b486d69e311a9064e69bd703ae6223b27dc8f172592afc9b395cdb8",
+                "size_in_bytes": 276001
+            },
+            {
+                "_path": "ssl/cert.pem",
+                "path_type": "softlink",
+                "sha256_in_prefix": "1f6578be2b486d69e311a9064e69bd703ae6223b27dc8f172592afc9b395cdb8",
+                "size_in_bytes": 276001
+            }
+        ],
+        "paths_version": 1
+    },
+    "platform": "osx",
+    "requested_spec": "ca-certificates==2022.5.18.1=h4653dfc_0",
+    "size": 148044,
+    "subdir": "osx-arm64",
+    "timestamp": 1653003579728,
+    "url": "https://conda.anaconda.org/conda-forge/osx-arm64/ca-certificates-2022.5.18.1-h4653dfc_0.tar.bz2",
+    "version": "2022.5.18.1"
+}
